@@ -16,7 +16,7 @@ public class Gado implements InterfaceAnimal{
 
 	@Override
 	public void animalAbrigo() {
-		System.out.println("Indo para o curral");
+		System.out.println("Indo para a estrebaria");
 		
 	}
 	
