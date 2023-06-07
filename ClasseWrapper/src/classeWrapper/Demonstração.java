@@ -28,8 +28,9 @@ public class Demonstração {
 		
 		int numero = Integer.parseInt("1");
 		
-		numero = numero = 1;
+		numero = numero + 1;
 		System.out.println(numero);
+		
 		
 	}
 }
